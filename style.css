@@ -1,0 +1,28 @@
+.seagreen{
+    background-color: #019a97;
+}
+.seagreen1{
+    color: #019a97;
+}
+.h-w{
+    height: 100%;
+    width: 100%;
+}
+.cards{
+    width: 100px;
+    height: 150px;
+    background-color: #f8ad14;
+    color: white;
+}
+.inside{
+    width: 55%;
+    height: 55%;
+    color: white;
+    background-color: #d98e00;
+}
+.orange{
+    color: #f2b743;
+}
+.bg-orange{
+    background-color: #f8ad14;
+}
